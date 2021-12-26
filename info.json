@@ -1,0 +1,11 @@
+{
+    \"nombre\": \"GIW\",
+    \"numero_alumnos\": 40,
+    \"horario\": [
+        {
+            \"dia\": \"Martes\",
+           \"hora_inicio\": 12,
+            \"hora_final\": 13
+    }
+]
+}
